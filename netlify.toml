@@ -1,9 +1,0 @@
-[build]
-  command = 'yarn build'
-  publish = 'dist'
-
-[[redirects]]
-  from = "/"
-  to = "https://tinytools.design/easing"
-  status = 301
-
